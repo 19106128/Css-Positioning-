@@ -1,0 +1,16 @@
+css positioning:
+static-position is not afeected by top bottom values
+Relative- An element width position relative to its normal position setting top right bottom properties
+absolute- An element with position absolute is positioned related to nearest position anchestor
+fixed-AN element position related to view . it always in same place even the page is scrolled. we can use all properties.
+sticky- positon based on user scroll position
+
+
+z index: it specify the stack order of an element(the element be infront or behind) the property
+css overflow: over flow proprty specifies whether to     add scroll bars when the content of an element is to big to fit in the specified area.
+ visible, scroll,auto,hidden.
+
+ css Float: it is used for positioning and formatting content.
+ left,right,none,inheritance.
+ css combinators: a css selector can contain more than one simple selector. between the simple selector.
+             
